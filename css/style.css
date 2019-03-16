@@ -1,0 +1,11 @@
+.navbar {
+    background: transparent !important;
+    transition: ease-in-out all 0.35s;
+    border: 1px solid transparent;
+}
+ 
+.btn:hover,
+a:hover {
+    text-decoration: none !important;
+    cursor: pointer;
+}
