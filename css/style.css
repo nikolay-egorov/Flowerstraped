@@ -50,12 +50,22 @@ section.pad-hard {
 }
 
 #home #row1{
-	padding-bottom: 200px;
+	padding-left: 50px;
+	padding-top: 90px;
+	padding-bottom: 100px;
 	background-image: url("https://bouqs-production-weblinc.netdna-ssl.com/media/W1siZiIsIjIwMTkvMDEvMjQvMjAvMTQvNTkvMTMxL0ZlYkZhcm0uanBnIl0sWyJwIiwib3B0aW0iXV0/FebFarm.jpg?sha=beb0e83e8ca8c821");
 	background-position: auto;
- 
     background-attachment: fixed;
 }
+#home #row1text{
+	border-color: black;
+ 	border-width: 3em;
+ 	font-family: sans-serif;
+ 	padding-top: 7px;
+ 	background-color: rgba(245, 245, 245, 0.9);
+}
+ 
+
 /*#home .row{
 	background-image: url("https://bouqs-production-weblinc.netdna-ssl.com/media/W1siZiIsIjIwMTkvMDEvMjQvMjAvMTQvNTkvMTMxL0ZlYkZhcm0uanBnIl0sWyJwIiwib3B0aW0iXV0/FebFarm.jpg?sha=beb0e83e8ca8c821");
 	background-position: center;
@@ -81,6 +91,14 @@ footer a:not(.btn) {
 
 
 
+.dark-section {
+    background: #223;
+}
+
+.dark-section h2 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
 
 /* Rotation possibility */
 
